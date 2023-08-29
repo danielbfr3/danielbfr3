@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2009<br>📚 I'm currently learning Go.<br>🎯 My main goal is to develop software that age like wine.<br>🎲 Fun fact: My favorite childhood memory is programming in a software call Logo 🐢.</p>
+<p align="left">✨ Helping business to grow since 2009<br>📚 I'm currently learning Go.<br>🎯 My main goal is to develop software that age like wine.<br>🎲 Fun fact: My favorite childhood memory is programming in a software call Logo 🐢.</p>
 
 ###
 
